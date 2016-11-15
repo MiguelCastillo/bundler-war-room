@@ -1,0 +1,18 @@
+{
+  "name": "bit-imports-site",
+  "version": "1.0.0",
+  "description": "> This is a sample page to illustrate how to use bit imports as yor module loader.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bit-imports-site"
+  ],
+  "author": "Miguel Castillo <manchagnu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "spromise": "^1.0.0",
+    "three": "^0.74.0"
+  }
+}

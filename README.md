@@ -1,2 +1,2 @@
 # bundler-war-room
-Sample application for testing application bundle with different bundlers.
+Sample application for testing application bundling with different bundlers.
