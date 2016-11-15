@@ -10,7 +10,8 @@ Sample application for testing application bundling with different bundlers. In 
 The test application uses [grunt](http://gruntjs.com/) as the task runner for things like bundling the application and serving it up in a connect server.
 
 ```
-$ cd bitbundler-demo
+$ git clone https://github.com/MiguelCastillo/bundler-war-room.git
+$ cd bundler-war-room/bitbundler-demo
 $ npm install
 $ grunt serve
 ```
